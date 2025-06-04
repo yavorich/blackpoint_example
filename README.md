@@ -9,7 +9,7 @@
 
 # Установка и запуск
 ```bash
-git clone https://github.com/username/project.git
+git clone https://github.com/yavorich/blackpoint.git
 cd project
 make up
 ```
